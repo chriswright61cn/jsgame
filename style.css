@@ -1,0 +1,10 @@
+#text-content {
+  width: 600px;
+  margin: auto;
+  font-size: 18px;
+  font-family: Arial, Helvetica, sans-serif;
+}
+
+#image-content {
+  background-color: red;
+}
